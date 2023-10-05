@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollaborativeTextEditor", "CollaborativeTextEditor\CollaborativeTextEditor.csproj", "{E55BE57A-5B1D-4E89-A4EC-36B2CA51DEB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E55BE57A-5B1D-4E89-A4EC-36B2CA51DEB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E55BE57A-5B1D-4E89-A4EC-36B2CA51DEB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E55BE57A-5B1D-4E89-A4EC-36B2CA51DEB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E55BE57A-5B1D-4E89-A4EC-36B2CA51DEB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97586D22-C469-4046-8BB4-013813412B1C}
+	EndGlobalSection
+EndGlobal
